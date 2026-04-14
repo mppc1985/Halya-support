@@ -1,6 +1,6 @@
-# Halya-support
+# Support Pianissola Brothers
 
-Thank you for using Halya.
+Thank you for using Pianissola Brothers APP.
 
 If you need help, have questions, or want to report an issue, please contact:
 
